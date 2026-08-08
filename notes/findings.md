@@ -1,3 +1,3 @@
 # Findings
 
-Top category: Electronics
+Top category: Home & Garden
