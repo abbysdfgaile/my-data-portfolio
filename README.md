@@ -1,9 +1,16 @@
 # My Data Portfolio
-My hands-on project from DataReady Git course.
 
-## Contents
-- SQL queries I have written
-- Notes on what I learned
-Added from lesson 2.6
-## Usage
+A hands-on portfolio I built while learning Git, version-controlled from day one.
 
+## Structure
+
+-  — SQL queries I have written
+-  — findings and things I learned
+
+## Highlights
+
+- [Monthly sales by category](queries/monthly_sales.sql)
+
+## About
+
+Built during the [DataReady](https://learndataready.byconol.com) Git course.
