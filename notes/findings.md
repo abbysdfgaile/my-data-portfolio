@@ -1,0 +1,3 @@
+# Findings
+
+Top category: Electronics
