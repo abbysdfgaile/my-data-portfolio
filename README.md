@@ -4,8 +4,8 @@ A hands-on portfolio I built while learning Git, version-controlled from day one
 
 ## Structure
 
--  — SQL queries I have written
--  — findings and things I learned
+- [Queries](./queries/) - SQL queries I have written
+- [Notes](./notes/) - findings and things I learned
 
 ## Highlights
 
